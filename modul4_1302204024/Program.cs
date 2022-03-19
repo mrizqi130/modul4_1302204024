@@ -15,9 +15,9 @@ namespace modul4_1302204024
         }
     }
 
-    public class Penjumlahan<T>
+    public class Penjumlahan
     {   
-        public T JumlahTigaAngka(T a, T b, T c)
+        public T JumlahTigaAngka<T>(T a, T b, T c)
         {
             dynamic d, var_a, var_b, var_c;
             var_a = a;
