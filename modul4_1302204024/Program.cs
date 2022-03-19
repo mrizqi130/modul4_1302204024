@@ -10,8 +10,8 @@ namespace modul4_1302204024
     {
         static void Main(string[] args)
         {
-            Penjumlahan<double> n = new Penjumlahan<double>();
-            Console.WriteLine(n.JumlahTigaAngka(1.3D, 0.2D, 2.0D));
+            Penjumlahan n = new Penjumlahan();
+            Console.WriteLine(n.JumlahTigaAngka<double>(1.3D, 0.2D, 2.0D));
         }
     }
 
