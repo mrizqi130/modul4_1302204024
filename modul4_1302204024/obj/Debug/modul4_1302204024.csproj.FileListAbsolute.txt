@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\obj\Debug\modul4_1302204024.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\obj\Debug\modul4_1302204024.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\obj\Debug\modul4_1302204024.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\bin\Debug\modul4_1302204024.exe.config
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\bin\Debug\modul4_1302204024.exe
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\bin\Debug\modul4_1302204024.pdb
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\obj\Debug\modul4_1302204024.exe
+C:\Users\ASUS\source\repos\modul4_1302204024\modul4_1302204024\obj\Debug\modul4_1302204024.pdb
